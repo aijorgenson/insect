@@ -261,7 +261,7 @@ imperialUnitDict = Dictionary
   , Q.partsPerBillion ==> ["ppb"]
   , Q.partsPerTrillion ==> ["ppt"]
   , Q.partsPerQuadrillion ==> ["ppq"]
-  , Q.mile ==> ["miles", "mile"]
+  , Q.mile ==> ["miles", "mile", "mi"]
   , Q.mile ./ Q.hour ==> ["mph"]
   , Q.inch ==> ["inches", "inch", "in"]
   , Q.yard ==> ["yards", "yard", "yd"]
